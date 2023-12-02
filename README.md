@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a hobbyist programmer interested in finding more efficient ways to learn. My published projects mostly focus on note-taking and knowledge management.
+
 ![](https://github-readme-stats.vercel.app/api?username=jm289765&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm289765&layout=compact)
 
-(from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+([anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
